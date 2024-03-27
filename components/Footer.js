@@ -7,7 +7,7 @@ function Footer() {
     <footer className={`${styles.footer} bg-gray-900`}>
       <div className={styles.container}>
         <div className={styles.join}>
-          <h2 className={styles.logo}>City Tours</h2>
+          <h2 className={styles.logo}>City Tours & Desert Safari</h2>
           <p className={styles.description}>
             Experience the best of both worlds with our dynamic city tours and
             thrilling desert safaris, offering unforgettable adventures for
